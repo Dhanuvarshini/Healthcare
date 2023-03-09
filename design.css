@@ -1,0 +1,452 @@
+div {
+height: 200px;
+width: 100%;
+}
+.home {
+    height: 100px;
+    width: 100%;
+
+}
+
+div nav.navii{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    
+    
+}
+
+
+body{
+    background-color: rgba(169, 207, 205, 0.993);
+}
+div nav a{
+  
+  display: inline-block;
+  padding: 20px; 
+  font-size: 20px;
+  color: black;
+  text-decoration: none;
+  margin-top: 15px;
+ 
+}
+b{
+    margin-left: 200px;
+   
+    
+}
+ 
+
+
+
+
+b img{
+    
+    height: 75px;
+    width: 75px;
+    float: left;
+    margin-top: 7px;
+
+    
+}
+
+
+    
+
+ h1{
+    margin-left: 130px;
+   
+    color: rgb(126, 248, 191);
+    font-size: 45px;
+    text-decoration: none;
+    text-shadow: 3px 3px 5px black;
+}
+
+div .tit h1
+{
+    margin-top: -287px;
+}
+
+.butt {
+    float: right;
+    margin-right: 150px;
+    margin-top: -50px;
+    color: rgb(9, 190, 145);
+    font-size:large;
+}
+.logo img{
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-right: 100px;
+    margin-top: -59px;
+}
+div .bob
+{
+    height:200px;
+    width: 100%;
+}
+.bob img{
+    height:550px;
+    width: 100%;
+}
+div .con1
+{
+    height: 200px;
+    width: 50%;
+}
+div .com
+{
+    color: black;
+    margin-top: -450px;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 3px 3px 7px rgb(0, 0, 0);
+}
+div .mohan
+{
+    color: black;
+    font-size: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: -40px;
+    text-shadow: 3px 3px 7px rgb(5, 5, 5);
+
+}
+pre
+{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 1px;
+    color:rgb(255, 255, 255);
+    margin-top: -40px;
+    text-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+div .kathir
+{
+margin-left: 800px;
+margin-top: -440px;
+height: 70px;
+width: 550px;
+}
+
+nav a:hover:not(.activ)
+{
+   
+    color: aqua;
+    
+    }
+    /* .active{
+       color: rgb(0, 241, 241);
+    
+    } */
+      div .star h1
+      {
+        margin-top: 500px;
+        margin-left: 250px;
+        color: black;
+        font-size: 70px;
+      }
+       div .immaa-1
+      {
+        width: 100%;
+        height: 550px;
+        background-color: rgb(255, 242, 242);
+        margin-top: -200px;
+       
+        
+      }
+div .imaa-1 img
+{
+    height: 500px;
+    width: 600px ;
+    margin-left: 650px;
+    margin-top: -430px;
+
+}
+h2{
+    width: 50%;
+    margin-left: -100px;
+    color: rgb(0, 0, 0);
+    margin-top: 30PX;
+    font-size: 30px;
+}    
+ .numm
+{
+    margin-left: 60px;
+    color: black;
+    margin-top: 150px;
+}
+.booba
+{
+    color: black;
+    text-shadow: none;
+
+}
+/*div .immaa-2
+{
+  width: 100%;
+  height: 550px;
+  
+ 
+}
+div .imaa-2 img
+{
+height: 400px;
+width: 600px ;
+margin-left: 40px;
+margin-top: -700px;
+
+}
+.jsys
+{
+    margin-left: 900px;
+    color: black;
+}
+.vicky{
+    width: 50%;
+    margin-left: 700px;
+    color: black;
+    margin-top: -40PX;
+    font-size: 30px;
+}
+.boos
+{
+    margin-left: 800px;
+    color: black;
+    text-shadow: none;
+} */
+button
+{
+    margin-top: 320px;
+    margin-left: 220px;
+    height: 45px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    font-size: 17px;
+    font: bold;
+    box-shadow: 0 0 20px rgb(5, 3, 138);
+    border-radius: 10px;
+}
+
+  
+  
+  div .list a
+  {
+  
+  color: #000000;
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  margin-right: 20px;
+  
+  
+  
+  }
+  .list
+  {
+     
+    position:absolute;
+    background-color: #ffffff;
+    margin-top: -10px;
+    margin-left: 970px;
+    margin-right: 250px;
+    display:none;
+    box-shadow: 2px 2px 1px 1px;
+    height: 180px;
+    width: 140px;
+   
+   
+  }
+  .drop:hover .list
+{
+    display: block;
+    
+}
+.drop a {
+    float: right;
+    margin-right: 260px;
+    margin-top: -59px;
+    font-size: 18px
+}
+
+.foot
+{
+    height: 200px;
+    width: 100%;
+    background-color: #ffffff;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+.field
+{
+height: auto;
+width: 95%;
+background-color: #d6ffff;
+margin-left: 20px;
+margin-top: 50px;
+text-align: center;
+border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+
+}
+.tare
+{
+    color: #000000;
+    text-shadow: none;
+    margin-top: 40px;
+    font-size: 20px;
+    margin-left: -40px;
+}
+.applyy
+{
+    margin-top: -400px;
+    margin-right: 200px;
+    height: 40px;
+    width: 100px;
+    background-color: #d7f2f5;
+    color: #000000;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    box-shadow: 0 0 50px rgb(0, 255, 136);
+    border-radius: 0%;
+}
+.rombo a
+{
+    text-decoration:none ;
+    text-align: center;
+    margin-top: 300px;
+
+    
+}
+div .rombo
+{
+    height: 10px;
+    width: 100%;
+}
+.field1
+{
+height: 250px;
+width: 100%;
+background-color: #000000;
+margin-left: -10px;
+margin-top: 50px;
+text-align: center;
+border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    text-decoration: none;
+
+}
+.tare1
+{
+    color: #ffffff;
+    text-shadow: none;
+    margin-top: 40px;
+    font-size: 20px;
+    margin-left: -40px;
+    
+}
+.applyy1
+{
+    margin-top: -400px;
+    
+    margin-left: -300px;
+    height: 40px;
+    width: 100px;
+    background-color: #d7f2f5;
+    color: #ffffff;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    box-shadow: 0 0 50px rgb(0, 255, 136);
+    border-radius: 0%;
+}
+.appu
+{
+color: rgb(255, 255, 255);
+    text-decoration: none;
+     
+}
+h4
+{
+    font-family:serif;
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: #ffffff;
+}
+input
+{
+    width: 250px;
+    height: 26px;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    box-shadow: 0px 0px 4px rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.subs
+{
+    margin-left: -10px;
+}
+.field2
+{
+    height: 210px;
+    width: 100%;
+    background-color: #000000;
+    margin-left: -10px;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    margin-top: 30px;
+    
+    
+}
+div fieldset a
+{
+   padding-left: 50px;
+   color: #fffbfb;
+   font-size: 20px;
+   
+}
+div fieldset h5{
+   margin-left: -70px;
+   font-size: 20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+.social
+{
+    height: 100px;
+    width: 150px;
+    margin-top: -40px;
+    margin-left: -30px;
+}
+/* .move1
+{
+   
+    color: aqua;
+    
+    } */
+    fieldset a:hover:not(.move3)
+    {
+        color: rgb(0, 255, 98);
+    }
+    

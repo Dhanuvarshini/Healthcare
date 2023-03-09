@@ -1,0 +1,124 @@
+div{
+    height: 200px;
+    width:100%;
+}
+h1
+{
+    text-align: center;
+    margin-top:20px;
+    font-size: 35px;
+    text-shadow: 2px 2px 6px black;
+    margin-left: -300px;
+}
+fieldset
+{
+    height: auto;
+    width: 500px ;
+    margin-left: 400px;
+    background-color: rgba(255, 255, 255, 0);
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0);
+    margin-top: 50px;
+    
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+}
+
+
+table
+{
+    font-size: 20px;
+    margin-top: 60px;
+    margin-left:50px;
+    
+    
+
+}
+ td input
+{
+    height:40px;
+    width: 100%;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    box-shadow: 0 0 10px rgb(25, 26, 25);
+    border-radius: 6px;
+    
+    
+}
+input.mal
+{
+    height:40px;
+    width: 210%;
+}
+input.mali
+{
+    height:100px;
+    width: 210%;
+    
+}
+
+ select
+{
+    width: 200px;
+    height: 35px;
+}
+
+pre{
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 20px;
+    margin-left: -280px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button
+{
+    margin-left: 55px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+}
+h3{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 60px
+ 
+}
+img{
+    height: 50px;
+    width: 50px;
+    margin-left: 370px;
+}
+ .bat
+{
+    margin-left: 55px;
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+}
+.reli
+{
+    margin-left: 20px;
+}
+a
+{
+    color: black;
+}

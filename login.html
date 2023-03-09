@@ -1,0 +1,93 @@
+<!-- <!--  --> --><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReLife Console</title>
+    <link rel="stylesheet" href="./login.css">
+   
+</head>
+<body>
+    <script>
+        var username,password;
+        function lopage()
+        {
+username=document.forms["formm"]["mail"];
+password=document.forms["formm"]["pass"];
+if(username.value=="")
+
+    alert("Please Enter Your Email");
+    username.focus()
+  return false
+}
+if(password.value=="")
+{
+  alert("plese Enter your Password");
+  password.focus()
+  return false
+}
+if(username.value=="suryatheking5784@gmail.com" && password.value=="surya1234")
+{
+  alert("LOGIN SUCCESSFULLY" );
+  return true
+}
+else
+{
+  alert("invalid username and password");
+  return false
+}
+        }
+
+    </script>
+    
+    <div class="kolantha">
+
+        <div>
+            <fieldset class="suryaa">
+                <h1>WELCOME</h1>
+            </fieldset>
+        </div>
+        <div>
+            <fieldset class="mohann">
+                
+            </fieldset>
+        </div>
+        <div>
+            <p id="jas"></p>
+            <fieldset class="kathirr">
+                <h2>LOGIN</h2>
+                <form action="./home.html" name="formm" method="get" onsubmit="return lopage()">                
+                    <table align="center" cellpadding="5"> 
+                        <tr>
+                            <td>
+                                <input type="email" id="Email"placeholder="Email" name="mail" >
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td>
+                                <input type="password"  id ="Password"placeholder="Password" name="pass">
+                            </td>
+                        </tr>
+
+                    </table>
+#00ff42
+            
+<br>
+            <a href="" class="bharat">Forget Password</a>
+            <br>
+            <br>
+            <br>
+            <a href="">
+                <button><b>LOGIN</b></button>
+            </a>
+            <br>
+            
+            </fieldset>
+        
+        </div>
+        
+    </div>
+</body>
+</html>
